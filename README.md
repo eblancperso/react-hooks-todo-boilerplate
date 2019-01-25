@@ -28,4 +28,4 @@ npm start
 
 ## License
 
-MIT license, Copyright (c) 2018 Eric Blanc.
+MIT license, Copyright (c) 2019 Eric Blanc.
